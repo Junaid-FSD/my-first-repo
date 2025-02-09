@@ -1,0 +1,2 @@
+Hi, This is text file . its purpose to test git commands 
+
